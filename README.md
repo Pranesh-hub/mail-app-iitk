@@ -6,7 +6,7 @@ This is a Flutter-based email client for IIT Kanpur email accounts. It supports:
 
 - Secure IMAP login and inbox viewing  
 - Composing and sending emails via SMTP with SSL  
-- Lazy loading of emails (planned)  
+- Lazy loading of emails  
 - Simple UI for composing and sending emails
 
 ---
